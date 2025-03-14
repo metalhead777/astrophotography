@@ -22,7 +22,7 @@ title: Niels' Astrophotography
 email: astro@nielsfliedner.de
 description: >- # this means to ignore newlines until "baseurl:"
   A Blog about my astrophotography endeavours.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/astrophotography" # the subpath of your site, e.g. /blog
 url: "https://metalhead777.github.io/astrophotography/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  metalhead777
