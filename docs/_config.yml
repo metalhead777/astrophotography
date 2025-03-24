@@ -29,7 +29,7 @@ url: "https://metalhead777.github.io" # the base hostname & protocol for your si
 github_username: metalhead777
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
