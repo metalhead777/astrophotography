@@ -4,6 +4,9 @@ title:  "Exposure Conversions"
 date:   2025-03-14 16:19:23 +0100
 categories: exposure maths
 ---
+<script type="text/javascript" async
+ src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 Here are some formulae regarding exposure.
 
