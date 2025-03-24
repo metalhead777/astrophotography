@@ -26,11 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/astrophotography"
 url: "https://metalhead777.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  metalhead777
+github_username: metalhead777
 
 # Build settings
 theme: minima
-remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
