@@ -22,17 +22,17 @@ title: Niels' Astrophotography
 email: astro@nielsfliedner.de
 description: >- # this means to ignore newlines until "baseurl:"
   A Blog about my astrophotography endeavours.
-# the subpath of your site, e.g. /blog
-baseurl: "/astrophotography"
+baseurl: "/astrophotography" # the subpath of your site, e.g. /blog
 url: "https://metalhead777.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: metalhead777
 
 # Build settings
-#theme: pages-themes/midnight@v0.2.0
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
+mathjax: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
