@@ -94,7 +94,6 @@ Exposure time ($$TA$$): 00:04:10 h ($$TM$$: 00:02:57 h, $$EV\_100$$: -1.92)
 
 ## Starfield Test
 
-![](img/2025-04-11-first-dso-exposures-06.jpg)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
