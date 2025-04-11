@@ -120,7 +120,7 @@ Let's look at an example:
 1. Convert to aperture value: $$AV=2 \cdot \log_2 N=2 \cdot \log_2 4=4$$
 2. Add $$n = 1/2$$ stop: $$AV_\text{adj} = AV + n = 4 + 1/2 = 4.5$$
 3. Convert back to f-number: $$N_\text{adj} = \sqrt{2^{AV_\text{adj}}} = 4.76$$
-4. Compute the exposure value, using the adjusted f-number and the adjusted exposure time: $$\text{EV\_100} = \log_2 \left( \frac{100\cdot N_\text{adj}^2}{\text{ISO} \cdot TA} \right) = \log_2 \left( \frac{100\cdot 4.76^2}{100 \cdot 900\,\text{s}} \right) = -5.31$$
+4. Compute the exposure value, using the adjusted f-number and the adjusted exposure time: $$\text{EV_100} = \log_2 \left( \frac{100\cdot N_\text{adj}^2}{\text{ISO} \cdot TA} \right) = \log_2 \left( \frac{100\cdot 4.76^2}{100 \cdot 900\,\text{s}} \right) = -5.31$$
 5. Compute the measured time using the original f-number and the exposure value: $$TM = \frac{100 \cdot N^2}{\text{ISO} \cdot 2^{EV\_100}} = \frac{100 \cdot 4^2}{100 \cdot 2^{-5.31}} = 634,73\,\text{s} \approx 00:10:53\,\text{h}$$
 
 As a control, we can take the measured time compute the exposure value. 
