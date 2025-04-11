@@ -69,14 +69,14 @@ However, when I flipped the focussing screen back to front, the fresnel lens cre
 
 #### Calculate Depth of Focus
 
-I calculated the [depth of focus $$db_\pm$$](https://en.wikipedia.org/wiki/Depth_of_focus) based on the [circle of confusion $$Z$$](https://en.wikipedia.org/wiki/Circle_of_confusion):
+I calculated the [depth of focus](https://en.wikipedia.org/wiki/Depth_of_focus) $$db_\pm$$ based on the [circle of confusion](https://en.wikipedia.org/wiki/Circle_of_confusion) $$Z$$:
 
 The circle of confusion maximum diameter can be estimated at $$Z = d/1500$$, with $$d$$ being the diameter of the sensor or film.
 For 35 mm film: $$Z = 0.029\,\text{mm}$$ ([Source](https://en.wikipedia.org/wiki/Circle_of_confusion#Circle_of_confusion_diameter_limit_based_on_d/1500)). 
 
-Using the f-number of the telescope ($$N = 6.83$$), we can compute the depth of focus:
+Using the f-number of the telescope $$N = 6.83$$, we can compute the depth of focus:
 
-\[[db_\pm \approx N \cdot Z=6.83 \cdot 0.029\,\text{mm}=\pm 0.198\,\text{mm}\]]
+\\[db_\pm \approx N \cdot Z=6.83 \cdot 0.029\,\text{mm}=\pm 0.198\,\text{mm}\\]
 
 So, all focus errors should remain within $$\pm 0.198\,\text{mm}$$ of the film emulsion layer(s).
 Since the focus motor of the PlaneWave CDK17 has a resolution of $$1\,\text{µm}/\text{step}$$, the limiting factor will be the precision of our focussing screen mounting system.
