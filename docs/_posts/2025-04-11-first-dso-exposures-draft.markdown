@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First Deep Space Object Exposures (Draft)"
+author: "Niels Fliedner"
 date:   2025-04-11 08:00:00 +0100
 categories: exposure
 ---

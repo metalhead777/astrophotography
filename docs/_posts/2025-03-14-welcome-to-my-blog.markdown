@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my Blog!"
+author: "Niels Fliedner"
 date:   2025-03-14 15:17:23 +0100
 categories: general update
 ---

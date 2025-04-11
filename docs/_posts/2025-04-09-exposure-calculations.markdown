@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Exposure Conversions"
+author: "Niels Fliedner"
 date:   2025-04-09 22:20:00 +0100
 categories: exposure maths
 ---
