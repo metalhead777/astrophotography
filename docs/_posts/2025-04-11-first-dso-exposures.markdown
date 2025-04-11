@@ -154,6 +154,24 @@ Exposure time ($$TA$$): 00:04:10 h ($$TM$$: 00:02:57 h, $$\text{EV_100}$$: `-1.9
 Exposure time ($$TA$$): 00:02:03 h ($$TM$$: 00:01:27 h, $$\text{EV_100}$$: `-0.9`)
 
 
+## Bahtinov Mask Focus Evaluation
+
+To evaluate if my achieved focus is any good, I drew some lines into the pattern.
+
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-02-edit1.jpg' | relative_url }}" />
+
+When looking very closely at the intersection in the middle, a lack of symmetry is clearly visible.
+The brown line is drawn through a ray orthogonal to the center red line.
+Since the blue line and red line are crossing the same intersection, the red line is clearly off.
+
+Unfortunately, I didn't not the orientation of the Bahtinov mask in relation to the camera.
+Without this information, it is not possible to judge whether the focus is too close or too far.
+
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-02-edit2.jpg' | relative_url }}" />
+
+So, it becomes appareant, that the focus was not perfect.
+This hints either to personal lack of skill, or indeed wrong mounting of the focussing screen.
+
 ## Starfield Test
 
 The starfield coordinates at March 4th 2025, 22:47:00 UTC+1
@@ -187,3 +205,4 @@ There are a few things I could improve here:
 - Check and maybe fix the telescope tracking to avoid streaks.
 - Remove vignetting in with reference flat frames, then edit the film photos.
 - Check again how the focussing screen should be oriented. Maybe it's better to not have a fresnel lens in there, so I can actually put the matte side towards the lens/telescope.
+- Write down the Bahtinov mask orientation in relation to the camera for later focus evaluation.
