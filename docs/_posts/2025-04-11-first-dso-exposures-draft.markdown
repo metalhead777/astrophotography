@@ -17,7 +17,7 @@ My first tests with Deep Space Object (DSO) were successfull... kinda.
 
 - $$TM$$: Measured exposure time
 - $$TA$$: Adjusted exposure time, with reciprocity failure correction applied
-- $$EV\_100$$: The exposure value with reference to ISO 100
+- $$\text{EV_100}$$: The exposure value with reference to ISO 100. This value is calculated using $$TM$$, so before reciprocity failure correction.
 
 # The Setup
 
@@ -45,7 +45,7 @@ I used two cameras of the same model, one for finding the focus and one for taki
 
 ## Film
 
-- FujiFilm Neopan AcrosII, ISO 100, shot at box speed
+- Fujifilm Neopan 100 Acros II, ISO 100, shot at box speed
 
 # Steps
 
@@ -64,30 +64,40 @@ I used two cameras of the same model, one for finding the focus and one for taki
 
 ## Bahtinov Interference Pattern Tests
 
-<img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" />
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-01.jpg' | relative_url }}" />
 
-Exposure time ($$TA$$): 00:16:00 h ($$TM$$: 00:11:17 h, $$EV\_100$$: -3.86)
-
----
-
-
-Exposure time ($$TA$$): 00:21:34 h ($$TM$$: 00:15:13 h, $$EV\_100$$: -4.29)
+Exposure time ($$TA$$): 00:16:00 h ($$TM$$: 00:11:17 h, $$\text{EV_100}$$: -3.86)
 
 ---
 
-Exposure time ($$TA$$): 00:14:30 h ($$TM$$: 00:10:15 h, $$EV\_100$$: -3.72)
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-02.jpg' | relative_url }}" />
+
+Exposure time ($$TA$$): 00:21:34 h ($$TM$$: 00:15:13 h, $$\text{EV_100}$$: -4.29)
 
 ---
 
-Exposure time ($$TA$$): 00:02:03 h ($$TM$$: 00:01:27 h, $$EV\_100$$: -0.9)
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-03.jpg' | relative_url }}" />
+
+Exposure time ($$TA$$): 00:14:30 h ($$TM$$: 00:10:15 h, $$\text{EV_100}$$: -3.72)
 
 ---
 
-Exposure time ($$TA$$): 00:04:10 h ($$TM$$: 00:02:57 h, $$EV\_100$$: -1.92)
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-04.jpg' | relative_url }}" />
+
+Exposure time ($$TA$$): 00:02:03 h ($$TM$$: 00:01:27 h, $$\text{EV_100}$$: -0.9)
+
+---
+
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-05.jpg' | relative_url }}" />
+
+Exposure time ($$TA$$): 00:04:10 h ($$TM$$: 00:02:57 h, $$\text{EV_100}$$: -1.92)
 
 ## Starfield Test
 
 
+<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-06.jpg' | relative_url }}" />
+
+Exposure time ($$TA$$): 00:45:00 h ($$TM$$: 00:31:56 h, $$\text{EV_100}$$: -5.36)
 
 # How to Improve
 
