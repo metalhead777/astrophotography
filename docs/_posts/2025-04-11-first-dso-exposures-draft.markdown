@@ -64,38 +64,29 @@ I used two cameras of the same model, one for finding the focus and one for taki
 
 ## Bahtinov Interference Pattern Tests
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" />
 
 Exposure time ($$TA$$): 00:16:00 h ($$TM$$: 00:11:17 h, $$EV\_100$$: -3.86)
 
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Exposure time ($$TA$$): 00:21:34 h ($$TM$$: 00:15:13 h, $$EV\_100$$: -4.29)
 
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Exposure time ($$TA$$): 00:14:30 h ($$TM$$: 00:10:15 h, $$EV\_100$$: -3.72)
 
 ---
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Exposure time ($$TA$$): 00:02:03 h ($$TM$$: 00:01:27 h, $$EV\_100$$: -0.9)
 
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Exposure time ($$TA$$): 00:04:10 h ($$TM$$: 00:02:57 h, $$EV\_100$$: -1.92)
 
 ## Starfield Test
 
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nielsfliedner/53944911190/" title="46050_002-24"><img src="https://live.staticflickr.com/65535/53944911190_afd7948805_h.jpg" width="1600" height="1070" alt="46050_002-24"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 # How to Improve
