@@ -64,13 +64,13 @@ I used two cameras of the same model, one for finding the focus and one for taki
 
 ## Bahtinov Interference Pattern Tests
 
-<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-01.jpg' | relative_url }}" />
+![](/assets/img/2025-04-11-first-dso-exposures-01.jpg)
 
 Exposure time ($$TA$$): 00:16:00 h ($$TM$$: 00:11:17 h, $$\text{EV_100}$$: -3.86)
 
 ---
 
-<img src="{{ '/assets/img/2025-04-11-first-dso-exposures-02.jpg' | relative_url }}" />
+![](assets/img/2025-04-11-first-dso-exposures-01.jpg)
 
 Exposure time ($$TA$$): 00:21:34 h ($$TM$$: 00:15:13 h, $$\text{EV_100}$$: -4.29)
 
