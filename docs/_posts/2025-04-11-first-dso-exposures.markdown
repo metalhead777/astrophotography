@@ -156,7 +156,7 @@ Exposure time ($$TA$$): 00:02:03 h ($$TM$$: 00:01:27 h, $$\text{EV_100}$$: `-0.9
 
 ## Bahtinov Mask Focus Evaluation
 
-To evaluate if my achieved focus is any good, I drew some lines into the pattern.
+To evaluate if my achieved focus is any good, I drew some lines onto the interference pattern.
 
 <img src="{{ '/assets/img/2025-04-11-first-dso-exposures-02-edit1.jpg' | relative_url }}" />
 
@@ -164,13 +164,13 @@ When looking very closely at the intersection in the middle, a lack of symmetry 
 The brown line is drawn through a ray orthogonal to the center red line.
 Since the blue line and red line are crossing the same intersection, the red line is clearly off.
 
-Unfortunately, I didn't not the orientation of the Bahtinov mask in relation to the camera.
+Unfortunately, I didn't note down the orientation of the Bahtinov mask in relation to the camera.
 Without this information, it is not possible to judge whether the focus is too close or too far.
 
 <img src="{{ '/assets/img/2025-04-11-first-dso-exposures-02-edit2.jpg' | relative_url }}" />
 
 So, it becomes appareant, that the focus was not perfect.
-This hints either to personal lack of skill, or indeed wrong mounting of the focussing screen.
+This hints either at a personal lack of skill, or indeed wrong mounting of the focussing screen.
 
 ## Starfield Test
 
