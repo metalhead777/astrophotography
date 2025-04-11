@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "First Deep Space Object Exposures (Draft)"
-date:   2025-04-11 01:00:00 +0100
-categories: exposure dso
+date:   2025-04-11 08:00:00 +0100
+categories: exposure
 ---
 <script type="text/javascript" async
  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
